@@ -1,0 +1,11 @@
+{
+  "name": "json2xml",
+  "version": "1.0.0",
+  "description": "testing conversion of json to xml",
+  "main": "index.js",
+  "author": "Suraj P",
+  "license": "MIT",
+  "dependencies": {
+    "jstoxml": "^3.2.5"
+  }
+}
