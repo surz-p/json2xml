@@ -1,0 +1,11 @@
+{
+    "propOne": 123,
+    "propTwo": "someValue",
+    "objOne": {
+        "propThree": true
+    },
+    "arrOne": [
+        "someOtherVal",
+        "someMoreVals"
+    ]
+}
